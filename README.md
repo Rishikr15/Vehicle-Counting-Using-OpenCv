@@ -1,9 +1,9 @@
- Vehicle-Counting-Using-OpenCv
+ ## Vehicle-Counting-Using-OpenCv
  
- This program helps to count traffic cars on a road with the help of a Detector Algorithm
+ ### This program helps to count traffic cars on a road with the help of a Detector Algorithm
  
- Libraries required for Program
----OpenCv
----Numpy
+ ### Libraries required for Program
+#### ->OpenCv
+#### ->Numpy
 
- video smaple given with Code 
+### Video Sample is given with the code for testing
